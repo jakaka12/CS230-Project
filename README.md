@@ -1,0 +1,2 @@
+# CS230-Project
+Sorry! Wellesley Edition was the final project for CS 230 Data Structures created by Alice Wong and myself. The program is a game based off of the childhood favorite board game Sorry! This repository contains all the code and nuts and bolts for our working program. It also includes our final writeup, which explains how the game works and the different ADTs we used. In order to run the program, compile and run SorryGUI.java. 
