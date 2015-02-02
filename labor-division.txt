@@ -1,0 +1,21 @@
+Labor division:
+
+Alice:
+SorryBoard
+SorryCell
+SorryPiece
+SorryPlayer
+
+Jazlyn:
+SorryCard
+SorryCardOverviewPanel
+SorryDeck
+SorryGrid
+SorryGUI
+SorryRulesPanel
+
+Both:
+SorryGame
+
+AdjMatGraphPlus.java, GraphPlus.java, javafoundations were code provided to us by
+exam 3 and the textbook
